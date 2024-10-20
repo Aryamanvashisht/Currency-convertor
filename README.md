@@ -16,6 +16,10 @@ A simple currency converter built using **React.js**, **Typescript**, and **Tail
 - **Tailwind CSS**: Utility-first CSS framework for styling.
 - **Currency Conversion API**: API used to fetch real-time exchange rates.
 
+## Image
+
+![currencyconvertor](https://github.com/user-attachments/assets/d7ceeb95-61ca-4eff-aa2a-55dc56c38c79)
+
 ## Getting Started
 
 ### Prerequisites
